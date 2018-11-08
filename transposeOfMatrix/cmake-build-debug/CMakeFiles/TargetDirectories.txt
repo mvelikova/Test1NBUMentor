@@ -1,0 +1,3 @@
+D:/GitHub/Test1NBUMentor/transposeOfMatrix/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/GitHub/Test1NBUMentor/transposeOfMatrix/cmake-build-debug/CMakeFiles/transposeOfMatrix.dir
+D:/GitHub/Test1NBUMentor/transposeOfMatrix/cmake-build-debug/CMakeFiles/rebuild_cache.dir
