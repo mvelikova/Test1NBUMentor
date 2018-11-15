@@ -27,13 +27,14 @@ int main() {
             trans[i][l]=matrix[l][i];
         }
     }
-
+    // Принтиране на новата матрица
     for (int k = 0; k < cols; ++k) {
         for (int i = 0; i <rows; ++i) {
             cout<<trans[k][i]<<" ";
         }
         cout<<endl;
     }
+    //Осводождаване на заетата памет от 2те матрици
     for(int i=0; i < cols; i++)
     {
         delete[] trans[i];
